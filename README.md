@@ -28,7 +28,7 @@ The dataset used in this project can be found at the following link: [Credit Ris
 - credit_risk_analysis.ipynb: Jupyter Notebook file for credit risk predictions.
 
 # Author
-Julio Cesar Yamashita Martins - Developer and Data Scientist
+Julio C. Y. Martins - Data Scientist
 
 # E-mail
 yamashitajulio@gmail.com
